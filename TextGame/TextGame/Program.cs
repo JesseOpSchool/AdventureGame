@@ -28,7 +28,11 @@ namespace TextGame
                 Console.WriteLine("But beware! You're not the only thing to lurk in the maze.\n");
                 Console.WriteLine("If at any moment you need help with commands, simply type 'help' and a list of commands will pop up. Goodluck on your journey travelers!\n");
                 Console.WriteLine("Press any key to start the game");
-                Console.WriteLine();
+                Enemy enemy = new Enemy();
+
+                enemy.printValues();
+
+
 
                 Console.ReadKey();
                 Console.Clear();

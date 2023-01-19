@@ -6,3 +6,11 @@ C:\Schooljaar 2 Software Development\Periode 6\C#\TextGame\TextGame\obj\Debug\Te
 C:\Schooljaar 2 Software Development\Periode 6\C#\TextGame\TextGame\obj\Debug\TextGame.csproj.CoreCompileInputs.cache
 C:\Schooljaar 2 Software Development\Periode 6\C#\TextGame\TextGame\obj\Debug\TextGame.exe
 C:\Schooljaar 2 Software Development\Periode 6\C#\TextGame\TextGame\obj\Debug\TextGame.pdb
+C:\Users\Jesse!\Desktop\AdventureGame\TextGame\TextGame\bin\Debug\TextGame.exe.config
+C:\Users\Jesse!\Desktop\AdventureGame\TextGame\TextGame\bin\Debug\TextGame.exe
+C:\Users\Jesse!\Desktop\AdventureGame\TextGame\TextGame\bin\Debug\TextGame.pdb
+C:\Users\Jesse!\Desktop\AdventureGame\TextGame\TextGame\obj\Debug\TextGame.csproj.AssemblyReference.cache
+C:\Users\Jesse!\Desktop\AdventureGame\TextGame\TextGame\obj\Debug\TextGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jesse!\Desktop\AdventureGame\TextGame\TextGame\obj\Debug\TextGame.csproj.CoreCompileInputs.cache
+C:\Users\Jesse!\Desktop\AdventureGame\TextGame\TextGame\obj\Debug\TextGame.exe
+C:\Users\Jesse!\Desktop\AdventureGame\TextGame\TextGame\obj\Debug\TextGame.pdb

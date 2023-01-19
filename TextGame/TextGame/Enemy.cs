@@ -8,17 +8,28 @@ namespace TextGame
 {
     internal class Enemy
     {
+        public static Random rnd = new Random();
+
         private int enemyY;
         private int enemyX;
 
-        Enemy()
+        public Enemy()
         {
-            this.enemyY = num;
-            this.enemyX = num;
+            enemyY = rnd.Next(1, 5);
+            enemyX = rnd.Next(1, 5);
+
+            while (enemyX == 3 && enemyY == 3)
+            {
+                enemyY = rnd.Next(1, 5);
+                enemyX = rnd.Next(1, 5);
+            }
         }
 
-        public static Random rnd = new Random();
+        public void printValues()
+        {
+            Console.WriteLine(enemyY);
+            Console.WriteLine(enemyX);
+        }
 
-        int num = rnd.Next(0, 5);
     }
 }
