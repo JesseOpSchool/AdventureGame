@@ -1,0 +1,8 @@
+C:\Schooljaar 2 Software Development\Periode 6\C#\TextGame\TextGame\bin\Debug\TextGame.exe.config
+C:\Schooljaar 2 Software Development\Periode 6\C#\TextGame\TextGame\bin\Debug\TextGame.exe
+C:\Schooljaar 2 Software Development\Periode 6\C#\TextGame\TextGame\bin\Debug\TextGame.pdb
+C:\Schooljaar 2 Software Development\Periode 6\C#\TextGame\TextGame\obj\Debug\TextGame.csproj.AssemblyReference.cache
+C:\Schooljaar 2 Software Development\Periode 6\C#\TextGame\TextGame\obj\Debug\TextGame.csproj.SuggestedBindingRedirects.cache
+C:\Schooljaar 2 Software Development\Periode 6\C#\TextGame\TextGame\obj\Debug\TextGame.csproj.CoreCompileInputs.cache
+C:\Schooljaar 2 Software Development\Periode 6\C#\TextGame\TextGame\obj\Debug\TextGame.exe
+C:\Schooljaar 2 Software Development\Periode 6\C#\TextGame\TextGame\obj\Debug\TextGame.pdb
